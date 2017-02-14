@@ -444,20 +444,49 @@ function draw() {
  beginShape();
  
   vertex(435.1,646.6)
-  vertex(606.1)
-  vertex()
-  vertex()
-  vertex()
+  vertex(606.1,348.3)
+  vertex(638.3,414.4)
+  vertex(638.3,664.1)
+  
+  endShape();  
+  
+   beginShape();
+ 
+  vertex(182.1,,-87.8)
+  vertex(301.3,-110.7)
+  vertex(367.8,12.1)
+  vertex(316.6,34)
+  vertex(328.3,67.6)
+  vertex(275,75)
   
   endShape();  
   
   
+   beginShape();
+ 
+  vertex(210.3,358.6)
+  vertex(182.1,358.6)
+  vertex(196.2,617.4)
+  vertex(221.6,627.6)
   
+  endShape();  
   
+   beginShape();
+ 
+  vertex(212.8,348.3)
+  vertex(252.3,365.9)
+  vertex(252.3,664.1)
+  vertex(212.8,643.7)  
+  endShape();  
   
+   beginShape();
+ 
+  vertex(411.7,64.7)
+  vertex(508.2,17.9)
+  vertex(638.3,89.6)
+  vertex(638.3,152.4)
   
-  
-  
+  endShape();  
   
   
   
