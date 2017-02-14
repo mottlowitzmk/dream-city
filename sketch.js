@@ -8,7 +8,7 @@ function draw() {
   vertex(599,1)
   vertex(599,599)
   vertex(-1,601)
-  fill(#3F3E31);
+  fill('#3F3E31');
   endShape();
   
   //
@@ -17,7 +17,7 @@ function draw() {
   beginShape();
   vertex(-311,-315)
   vertex(599.9,-315) 
-  fill(#3C4739); 
+  fill('#3C4739'); 
   endShape();  
   
   beginShape();
@@ -27,7 +27,7 @@ function draw() {
   vertex(-91.3,-55.2)
   vertex(-212.6,-39.1)
   vertex(-170.7,-110.7)
-fill(#272F25);
+fill('#272F25');
   endShape();  
   //st13
   
@@ -53,7 +53,7 @@ fill(#272F25);
   vertex(-29.9,493.1)
   vertex(-50.8,464.9)
   vertex(14.8,372.7)
-  fill(#313629);
+  fill('#313629');
   endShape();  
   //st18
   
@@ -64,7 +64,7 @@ fill(#272F25);
   vertex(197.1,594.4)
   vertex(196.2,617.4)
   vertex(149.8,365.9)
-  fill(#5E886E);
+  fill('#5E886E');
   endShape(); 
   //st25 
   
@@ -74,7 +74,7 @@ fill(#272F25);
   vertex(106.1,358.6)
   vertex(106.1,672.4)
   vertex(85.6,676.3)
-fill(#393629);
+fill('#393629');
   endShape();  
   //st26
   
@@ -84,7 +84,7 @@ fill(#393629);
   vertex(85.6,365.9)
   vertex(85.6,676.3)
   vertex(43.2,676.3)
-  fill(#0A0A09);
+  fill('#0A0A09');
   //st27
   endShape();  
   
@@ -97,7 +97,7 @@ fill(#393629);
   vertex(638.3,300.3)
   vertex(590.8,300.3)
   vertex(328.3,198.7)
-  fill(#6E7C70);
+  fill('#6E7C70');
   endShape();  
   //st28
   
@@ -108,7 +108,7 @@ fill(#393629);
   vertex(638.3,-40.1)
   vertex(638.3,-119)
   vertex(524.1,-58.3)
-fill(#689891);
+fill('#689891');
 //st29
   endShape();  
   
@@ -119,7 +119,7 @@ fill(#689891);
   vertex(543.2,115.7)
   vertex(638.3,152.4)
   vertex(638.3,244.5)
-  fill(#53695D);
+  fill('#53695D');
   //st30
   endShape();  
   
@@ -129,7 +129,7 @@ fill(#689891);
   vertex(590.8,300.3)
   vertex(610,358.6)
   vertex(561.9,429.7)
-  fill(#547866);
+  fill('#547866');
   //st31
   endShape();  
   
@@ -140,7 +140,7 @@ fill(#689891);
   vertex(638.3,-169.7)
   vertex(638.3,-110.7)
   vertex(518.4,-55.7)
-  fill(#69736D);
+  fill('#69736D');
   //st32
   endShape();  
   
@@ -150,7 +150,7 @@ fill(#689891);
   vertex(-224.4,288.9)
   vertex(-224.4,303)
   vertex(-389,311.8)
-  fill(#327A68);
+  fill('#327A68');
   //st35
   endShape();  
   
@@ -162,7 +162,7 @@ fill(#689891);
   vertex(-389,288.9)
   vertex(-216.5,288.9)
   vertex(-229.2,106.1)
-  fill(#52806C);
+  fill('#52806C');
   //st36
   endShape();  
   
@@ -176,7 +176,7 @@ fill(#689891);
   vertex(11.9,623.2)
   vertex(-51.1,627.6)
   vertex(-44,472.6)
-  fill(#557A65);
+  fill('#557A65');
   endShape();  
   //st37
   
@@ -188,7 +188,7 @@ fill(#689891);
   vertex(424.8,58.3)
   vertex(288.6,121.7)
   vertex(265,38.6)
-  fill(#43806D);
+  fill('#43806D');
   //st43
   
   endShape();  
@@ -200,7 +200,7 @@ fill(#689891);
   vertex(508.2,17.9)
   vertex(454.9,-8.9)
   vertex(367.8,12.1)
-  fill(#606F64);
+  fill('#606F64');
   endShape();  
   //st45
   
@@ -210,7 +210,7 @@ fill(#689891);
   vertex(502.6,20.6)
   vertex(580.1,-14.2)
   vertex(543.2,-43)
-  fill(#6D8681);
+  fill('#6D8681');
   endShape();  
   
   beginShape();
@@ -219,7 +219,7 @@ fill(#689891);
   vertex(-259.2,513.6)
   vertex(-263.5,645.8)
   vertex(-341.3,648.2)
-  fill(#556E62);
+  fill('#556E62');
   //st47
   endShape();  
   
@@ -229,7 +229,7 @@ fill(#689891);
   vertex(-238.9,517.4)
   vertex(-238.9,641.2)
   vertex(-267.7,646.6)
-  fill(#48857A);
+  fill('#48857A');
   //st48
   
   endShape();  
@@ -240,7 +240,7 @@ fill(#689891);
   vertex(-224.4,303)
   vertex(-224.4,330.3)
   vertex(-385.1,333.7)
-  fill(#425D49);
+  fill('#425D49');
   //st49
   
   endShape();  
@@ -251,7 +251,7 @@ fill(#689891);
   vertex(-224.4,330.3)
   vertex(-228.2,367.5)
   vertex(-381.2,365)
-  fill(#344131);
+  fill('#344131');
   endShape();  
   
   
@@ -261,7 +261,7 @@ fill(#689891);
   vertex(-111.6,198.7)
   vertex(26.2,383.9)
   vertex(6.7,429.7)
-  fill(#363B2B);
+  fill('#363B2B');
   //st52
   
   endShape();  
@@ -272,7 +272,7 @@ fill(#689891);
   vertex(638.3,-40.1)
   vertex(638.3,89.3)
   vertex(508.2,17.9)
-  fill(#BEBA9E);
+  fill('#BEBA9E');
   //st54
   
   endShape();  
@@ -285,7 +285,7 @@ fill(#689891);
   vertex(275,-165.8)
   vertex(189,-192.6)
   vertex(203.1,-221.8)
-  fill(#766F73);
+  fill('#766F73');
   //st56
   
   endShape();  
@@ -296,7 +296,7 @@ fill(#689891);
   vertex(-79.1,198.7)
   vertex(31.1,365.9)
   vertex(19.4,379)
-  fill(#35392C);
+  fill('#35392C');
   //st57
   endShape();  
   
@@ -305,7 +305,7 @@ fill(#689891);
   vertex(328.3,198.7)
   vertex(312.2,333.7)
   vertex(590.8,300.3)
-  fill(#668B79);
+  fill('#668B79');
   //st58
   
   endShape();  
@@ -316,7 +316,7 @@ fill(#689891);
   vertex(411.7,321.8)
   vertex(301.3,333.7)
   vertex(301.3,446.3)
-  fill(#15120F);
+  fill('#15120F');
   //st61
   
   endShape();  
@@ -327,7 +327,7 @@ fill(#689891);
   vertex(312.2,234.8)
   vertex(296.2,365.9)
   vertex(265,365.9)
-  fill(#3B4238);
+  fill('#3B4238');
   //st63
   
   endShape();  
@@ -338,7 +338,7 @@ fill(#689891);
   vertex(139.8,359.9)
   vertex(124.8,668.5)
   vertex(106.1,664.1)
-  fill(#384231);
+  fill('#384231');
   //st64
   
   endShape();  
@@ -349,7 +349,7 @@ fill(#689891);
   vertex(154.9,362.5)
   vertex(147.5,668.5)
   vertex(124.8,668.5)
-  fill(#49443A);
+  fill('#49443A');
   endShape();  
   //st65
   
@@ -359,7 +359,7 @@ fill(#689891);
   vertex(-95.6,-257.4)
   vertex(-99.8,-175.5)
   vertex(-137.6,-169.7)
-  fill(#1A1911);
+  fill('#1A1911');
   endShape();
   //st69  
   
@@ -372,7 +372,7 @@ fill(#689891);
   vertex(-50.8,-127.8)
   vertex(-87.4,-129.7)
   vertex(-76.9,-257.4)
-  fill(#3A463A);
+  fill('#3A463A');
   //st70
   
   endShape();  
@@ -382,7 +382,7 @@ fill(#689891);
   vertex(-8.9,-119)
   vertex(18.6,-247.2)
   vertex(-40.1,-241.8)
-  fill(#427C5F);
+  fill('#427C5F');
   endShape();
   //st72
   
@@ -392,7 +392,7 @@ fill(#689891);
   vertex(47.6,-119)
   vertex(53.1,-257.4)
   vertex(-29.4,-247.2)
-  fill(#678979);
+  fill('#678979');
   //st73
   endShape();  
   
@@ -413,7 +413,7 @@ fill(#689891);
   vertex(129.5,-343.2)
   vertex(47.6,-343.2)
   vertex(40.8,-278.8)
-  fill(#5B584E);
+  fill('#5B584E');
   //st79
   endShape();  
   
@@ -423,7 +423,7 @@ vertex(232.6,-278.8)
 vertex(201.9,-192.6)
 vertex(145.4,-192.6)
 //st81
-fill(#655952);
+fill('#655952');
   endShape();
   
   beginShape();
@@ -438,7 +438,7 @@ fill(#655952);
   vertex(166,-96.6)
   vertex(182.1,-152.4)
   vertex(197.7,-200.9)
-  fill(#3F513A);
+  fill('#3F513A');
   //st82
   endShape();  
   
@@ -448,7 +448,7 @@ fill(#655952);
   vertex(100.3,-11)
   vertex(71,-119)
   vertex(76.9,-278.8)
-  fill(#474E3D);
+  fill('#474E3D');
   endShape();  
   //st85
   
@@ -458,7 +458,7 @@ fill(#655952);
   vertex(147,-200.9)
   vertex(125.6,-92.7)
   vertex(82.7,-96.6)
-  fill(#407761);
+  fill('#407761');
   endShape();  
   //st86
   
@@ -468,7 +468,7 @@ fill(#655952);
   vertex(-72.3,-257.4)
   vertex(-78.1,-127.8)
   vertex(-102.5,-127.8)
-  fill(#2B2F22);
+  fill('#2B2F22');
   endShape();  //st88
   
   beginShape();
@@ -477,7 +477,7 @@ fill(#655952);
   vertex(459.9,333.7)
   vertex(526.9,486.5)
   vertex(435.1,611.5)
-fill(#5D5E5E); //st89
+fill('#5D5E5E'); //st89
   endShape();  
   
   beginShape();
@@ -495,7 +495,7 @@ fill(#5D5E5E); //st89
   vertex(356.1,646.6)
   vertex(525.7,326.4)
   vertex(623.7,605.7)
-fill(#729C81);
+fill('#729C81');
   endShape();  //st91
   
  beginShape();
@@ -504,7 +504,7 @@ fill(#729C81);
   vertex(606.1,348.3)
   vertex(638.3,414.4)
   vertex(638.3,664.1)
-  fill(#7E695F);
+  fill('#7E695F');
   endShape();  //st93
   
    beginShape();
@@ -515,7 +515,7 @@ fill(#729C81);
   vertex(316.6,34)
   vertex(328.3,67.6)
   vertex(275,75)
-  fill(#11100D);
+  fill('#11100D');
   endShape();  //st95
   
   
@@ -525,7 +525,7 @@ fill(#729C81);
   vertex(182.1,358.6)
   vertex(196.2,617.4)
   vertex(221.6,627.6)
-  fill(#747768);
+  fill('#747768');
   endShape();  
   //st98
   
@@ -536,7 +536,7 @@ fill(#729C81);
   vertex(252.3,365.9)
   vertex(252.3,664.1)
   vertex(212.8,643.7)  
-  fill(#B8A588);
+  fill('#B8A588');
   //st99
   endShape();  
   
@@ -546,7 +546,7 @@ fill(#729C81);
   vertex(508.2,17.9)
   vertex(638.3,89.6)
   vertex(638.3,152.4)
-  fill(#6A786C);
+  fill('#6A786C');
   //st100
   endShape();  
   
